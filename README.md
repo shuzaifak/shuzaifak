@@ -3,15 +3,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Huzaifa+Khan;Flutter+Developer;Building+Mobile+Apps+People+Actually+Use;Firebase+%7C+APIs+%7C+POS+Systems+%7C+AI+Tools;Clean+UI.+Maintainable+Code.+Real-World+Solutions." alt="Typing SVG" />
 
 <br/>
+<br/>
 
-<a href="https://github.com/shuzaifak">
-  <img src="https://img.shields.io/badge/GitHub-shuzaifak-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://linkedin.com/in/huzaifa-khan-">
-  <img src="https://img.shields.io/badge/LinkedIn-Huzaifa%20Khan-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shuzaifak35@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shuzaifak35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/shuzaifak">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
