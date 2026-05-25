@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Huzaifa+Khan;Flutter+Developer;Building+Mobile+Apps+People+Actually+Use;Firebase+%7C+APIs+%7C+POS+Systems+%7C+AI+Tools;Clean+UI.+Maintainable+Code.+Real-World+Solutions." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:38bdf8&height=220&section=header&text=Huzaifa%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=60&descSize=20&descColor=dbeafe" />
 
 <br/>
-<br/>
+
+<h2>Turning Real-World Problems into Smooth Mobile Solutions</h2>
 
 <a href="https://linkedin.com/in/huzaifa-khan-">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,6 +14,9 @@
 </a>
 <a href="https://github.com/shuzaifak">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=shuzaifak&style=for-the-badge&color=38bdf8">
+  <img src="https://komarev.com/ghpvc/?username=shuzaifak&style=for-the-badge&color=38bdf8" />
 </a>
 
 </div>
