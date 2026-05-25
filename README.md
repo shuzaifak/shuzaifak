@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Huzaifa+Khan;Flutter+Developer;Building+Cross-Platform+Mobile+Apps;Firebase+%7C+REST+APIs+%7C+POS+Systems+%7C+AI+Tools;Clean+UI.+Scalable+Code.+Real-World+Apps." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Huzaifa+Khan;Flutter+Developer;Building+Mobile+Apps+People+Actually+Use;Firebase+%7C+APIs+%7C+POS+Systems+%7C+AI+Tools;Clean+UI.+Maintainable+Code.+Real-World+Solutions." alt="Typing SVG" />
 
 <br/>
 
@@ -20,36 +20,42 @@
 
 # Flutter Developer
 
-I build clean, responsive, and production-ready mobile applications using **Flutter**.  
-My focus is on creating apps that are smooth to use, easy to maintain, and strong enough for real-world business needs.
+I am a Flutter developer with 3 years of hands-on experience building mobile applications that people actually use.
 
-I have hands-on experience with **Flutter, Dart, Firebase, Firestore, REST APIs, WebSockets, Provider, Hive, Google Maps, Mapbox, Stripe, Cloud Functions, and AI integrations**.
+I enjoy taking real-world problems and turning them into clean, fast, and intuitive mobile experiences. My work covers Flutter apps with Firebase backends, REST APIs, WebSockets, payment gateways, maps, local storage, production deployments, and AI-powered features.
 
-Currently, I am working as a **Flutter Developer at Surge**, where I maintain and improve Flutter-based POS systems, optimize performance, fix bugs, enhance UI/UX, and work on production-level mobile applications.
+Currently, I am completing my Software Engineering degree at **FAST NUCES Islamabad** while working as a **Flutter Developer at Surge**, where I contribute to production-level POS systems and mobile applications.
 
 ---
 
-## Flutter Expertise
+## Flutter Focus
 
 ```dart
-final flutterDeveloper = {
-  "name": "Huzaifa Khan",
-  "role": "Flutter Developer",
-  "experience": "3+ years",
-  "focus": [
-    "Cross-platform mobile apps",
-    "Firebase-based applications",
-    "REST API integrations",
-    "POS systems",
-    "Payment integrations",
-    "AI-powered mobile apps",
-    "Clean UI and app performance"
-  ],
-  "stateManagement": ["Provider", "GetX"],
-  "localStorage": ["Hive", "Shared Preferences"],
-  "maps": ["Google Maps API", "Mapbox API"],
-  "backend": ["Firebase", "Firestore", "Cloud Functions", "Spring Boot", "MySQL"]
-};
+class FlutterDeveloper {
+  final String name = "Huzaifa Khan";
+  final String role = "Flutter Developer";
+  final String experience = "3+ years";
+  final String location = "Islamabad, Pakistan";
+
+  final List<String> coreSkills = [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "Firestore",
+    "Provider",
+    "REST APIs",
+    "WebSockets",
+    "Cloud Functions",
+    "Payment Integrations",
+    "Maps Integration",
+    "AI Integration",
+    "POS Systems"
+  ];
+
+  String goal() {
+    return "Build clean, maintainable, and user-friendly mobile apps for real-world use.";
+  }
+}
 ```
 
 ---
@@ -60,9 +66,8 @@ final flutterDeveloper = {
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Shared%20Preferences-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cross--Platform%20Apps-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-6C63FF?style=for-the-badge" />
 </p>
 
 ## Backend, APIs & Integrations
@@ -76,6 +81,7 @@ final flutterDeveloper = {
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Model%20Integration-102230?style=for-the-badge" />
 </p>
 
 ## Tools & Languages
@@ -96,18 +102,18 @@ final flutterDeveloper = {
 ### Flutter Developer — Surge  
 **Aug 2025 – Present | Remote**
 
-- Maintaining and enhancing Flutter-based Point of Sale systems.
+- Maintaining and enhancing Flutter-based Point of Sale systems for daily business operations.
 - Improving UI/UX, fixing bugs, and optimizing app performance.
-- Refactoring app state management using Provider.
-- Working on production systems used in daily business operations.
+- Refactoring code using Provider for stable state management.
+- Building and maintaining production-level mobile features with clean and maintainable code.
 
 ### Mobile App Intern — Surge  
 **Jun 2025 – Aug 2025 | Remote**
 
-- Developed frontend for a multilingual license test preparation app.
-- Built frontend for a rider delivery app connected with a POS system.
-- Implemented thermal printer functionality for Flutter-based receipt generation.
-- Integrated REST APIs and WebSockets for smooth real-time data flow.
+- Developed frontend for a multilingual English and Italian license test preparation app.
+- Built frontend for a rider delivery app integrated with the company’s POS system.
+- Implemented thermal printer functionality in a Flutter-based POS app for receipt generation.
+- Integrated REST APIs and WebSockets while collaborating with the backend team.
 
 ---
 
@@ -116,72 +122,69 @@ final flutterDeveloper = {
 ### Bluepin — Smart Parking Management System  
 **Flutter | Firebase | Firestore | Stripe | Google Maps API | Cloud Functions**
 
-A smart parking reservation system with user and admin panels, secure Stripe payments, Google Maps integration, and real-time parking space management.
+A parking reservation system with admin and user panels, secure Stripe payment processing, Google Maps integration, and real-time parking space availability.
 
 ### Bonanza Conexión  
-**Flutter | Firebase | Firestore | Mercado Pago | Cloud Functions**
+**Flutter | Firebase | Firestore | Mercado Pago | Cloud Functions | Google Play**
 
-A ride coordination platform connecting passengers, drivers, and coordinators with real-time trip management, bilingual support, and secure wallet recharge functionality.
+A production ride coordination platform connecting passengers, drivers, and coordinators with real-time trip management, bilingual support, and secure wallet recharge functionality.
 
 ### Reevall  
-**Flutter | Firebase | Firestore | Cloud Functions**
+**Flutter | Firebase | Firestore | Cloud Functions | Google Play**
 
-A zero-waste campus marketplace for students with secure in-app chat, listing management, campus-based discovery, push notifications, and student discount features.
-
-### CV Maker — ATS Compliant  
-**Flutter | Hive | Provider | AI Integration**
-
-A privacy-focused resume builder with ATS scoring, AI-powered feedback, offline local storage, and PDF generation.
+Pakistan’s first zero-waste campus marketplace for university students, featuring in-app chat, listing management, campus-scoped discovery, push notifications, and student discounts.
 
 ### Ride App  
 **Flutter | Firebase | Firestore | Mapbox API**
 
-A ride-hailing application with booking, driver registration, ride history, reviews, complaints, suggestions, direct calls, and real-time navigation.
+A ride-hailing application with customer booking, ride history, driver reviews, complaints, suggestions, driver verification, direct calls, and real-time route navigation.
 
 ### E-Voting System  
 **Flutter | Firebase | Firestore**
 
-A secure digital voting app with biometric authentication, election management tools, real-time analytics, and encrypted voter data handling.
+A secure digital voting application with biometric authentication, real-time voter turnout analytics, election management tools, and protected voter information.
 
-### Motion Tracking Analyzer  
-**Flutter | Provider | Hive | REST APIs**
+### CV Maker — ATS Compliant  
+**Flutter | Hive | Provider | AI Integration**
 
-A motion analysis app connected with a Python backend and ML model for analyzing categorized human movement videos.
+A privacy-focused resume builder with AI-powered ATS scoring, personalized feedback, targeted improvement recommendations, offline local storage, and PDF generation.
 
-### ClassTrack  
-**Flutter | MySQL | Spring Boot**
+### Scalar POS  
+**Flutter | Firebase | Firestore**
 
-A classroom management system with teacher and student panels, attendance tracking, announcements, course enrollment, and material sharing.
+A full-featured Point of Sale system built and sold as an independent product, deployed at a real business client and used for 249+ transactions within the first month.
+
+It includes sales management, inventory tracking, inventory valuation, financial reporting, thermal receipt printing, and a cashier-friendly interface for fast daily operations.
 
 ---
 
 ## What I Build with Flutter
 
 ```text
-Mobile Apps                  → Android and iOS apps with clean UI
-POS Systems                  → Receipt printing, sockets, and business workflows
-Admin Panels                 → Firebase/API-based management dashboards
-AI-Powered Apps              → ATS scoring, ML model integration, smart tools
+Mobile Apps                  → Android and iOS apps with clean and responsive UI
+POS Systems                  → Sales, inventory, receipts, sockets, and business workflows
+Admin Panels                 → Firebase/API-based dashboards and management systems
+AI-Powered Apps              → ATS scoring, ML model integration, and smart tools
 Marketplace Apps             → Listings, chat, discovery, and notifications
 Ride & Parking Apps          → Maps, bookings, payments, and real-time flows
 ```
 
 ---
 
-## GitHub Stats
+## Currently Interested In
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shuzaifak&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuzaifak&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- Mobile App Development
+- Cross-Platform Solutions
+- Database Management
+- API Integration
+- User Experience Design
+- Payment Systems
+- AI-powered Mobile Applications
 
 ---
 
 <div align="center">
 
-### Flutter Developer focused on clean UI, scalable architecture, and real-world mobile solutions.
+### Flutter Developer focused on clean UI, maintainable code, and real-world mobile solutions.
 
 </div>
