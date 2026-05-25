@@ -4,7 +4,10 @@
 
 <br/>
 
-<h2>Turning Real-World Problems into Smooth Mobile Solutions</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=800&center=true&vCenter=true&width=850&color=38BDF8&lines=Turning+Real-World+Problems+into+Smooth+Mobile+Solutions;Flutter+Developer;Building+Mobile+Apps+People+Actually+Use;Firebase+%7C+APIs+%7C+POS+Systems+%7C+AI+Tools;Clean+UI.+Maintainable+Code.+Real-World+Solutions." alt="Typing SVG" />
+
+<br/>
+<br/>
 
 <a href="https://linkedin.com/in/huzaifa-khan-">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,9 +17,6 @@
 </a>
 <a href="https://github.com/shuzaifak">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://komarev.com/ghpvc/?username=shuzaifak&style=for-the-badge&color=38bdf8">
-  <img src="https://komarev.com/ghpvc/?username=shuzaifak&style=for-the-badge&color=38bdf8" />
 </a>
 
 </div>
